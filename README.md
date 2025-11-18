@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuarinoAlbertoMM
-- 👀 I’m interested in learning HTML, CSS, JavaScript, C#, Python and SQL.
+- 👀 I’m interested in learning FrontEnd with React.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me, email : theguari99@gmail.com
+- 📫 How to reach me, email : guarinoalbertom@gmail.com
 
 <!---
 GuarinoAlbertoMM/GuarinoAlbertoMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
